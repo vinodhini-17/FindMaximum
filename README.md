@@ -43,17 +43,23 @@ def max_marks(list1):
 ```
 ## Sample Input and Output
 i)
-![output](./img/max_marks1.jpg) 
+![max in 1](https://github.com/vinodhini-17/FindMaximum/assets/145742741/b1f115db-8327-45f2-aa08-d6fc65851b3c)
+
 ii)
-![Alt text](<max2 in.png>)
+![max2 in](https://github.com/vinodhini-17/FindMaximum/assets/145742741/20037044-8589-43b8-9e07-984d1d037941)
+
 iii)
-![Alt text](<max 3 in.png>)
+![max 3 in](https://github.com/vinodhini-17/FindMaximum/assets/145742741/4e7fb213-1d61-44f2-959d-f765b6520349)
+
 ## Output:
 i)
-![Alt text](<max1 out.png>)
+![max1 out](https://github.com/vinodhini-17/FindMaximum/assets/145742741/00bd4bfc-988a-4d96-83e3-c5a46eb49836)
+
 ii)
-![Alt text](<max 2out.png>)
+![max 2out](https://github.com/vinodhini-17/FindMaximum/assets/145742741/b9da550e-771a-4d3a-8064-c2588c1fb0b5)
+
 iii)
-![Alt text](<max 3 out.png>)
+![max 3 out](https://github.com/vinodhini-17/FindMaximum/assets/145742741/047dbf98-eea0-444e-91df-e777077a125b)
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
